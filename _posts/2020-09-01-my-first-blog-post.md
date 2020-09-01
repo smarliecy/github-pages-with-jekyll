@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Welcome!"
+date: 2020-09-20
 ---
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello this is my first post.
 
-I hope you like it!
+HIHIHI
