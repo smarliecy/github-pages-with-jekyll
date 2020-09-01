@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "on the verge"
-date: 2020-09-20
 
+title: "Your blog post title"
+date: YYYY-MM-DD
+layout: post
+
+---
 
 # Welcome
 
 **Hello this is my first post.
 
 HIHIHI
----
+
